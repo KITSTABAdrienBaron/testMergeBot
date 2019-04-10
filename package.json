@@ -1,0 +1,14 @@
+{
+  "name": "test-merge-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:KITSTABAdrienBaron/testMergeBot.git",
+  "author": "adrienbaron <adrien.baron+kf@theappbusiness.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
